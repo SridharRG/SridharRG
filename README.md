@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sridhar79.rgss@gmail.com**
 
-- ⚡ Fun fact **U mean my lyf??**
+- ⚡ Fun fact **I use arch btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
