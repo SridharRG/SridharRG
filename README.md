@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **python, Java**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **sridhar79.rgss@gmail.com**
 
